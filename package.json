@@ -1,0 +1,22 @@
+{
+  "name": "remixicon-cdn",
+  "version": "1.0.0",
+  "description": "A simplified CDN to load remixicon SVGs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MirazMac/remixicon-cdn.git"
+  },
+  "keywords": [
+    "remixicon"
+  ],
+  "author": "Miraz Mac",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/MirazMac/remixicon-cdn/issues"
+  },
+  "homepage": "https://github.com/MirazMac/remixicon-cdn#readme"
+}
