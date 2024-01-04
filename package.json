@@ -1,6 +1,6 @@
 {
   "name": "remixicon-cdn",
-  "version": "3.5.0",
+  "version": "4.0.0",
   "description": "A simplified CDN to load remixicon SVGs",
   "main": "index.js",
   "scripts": {
